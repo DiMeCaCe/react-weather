@@ -4,6 +4,7 @@ import Api from "./Api";
 import DateUtil from "./DateUtil";
 import "./Forecast.css";
 import WeatherIcon from "./WeatherIcon";
+import Weather from "./Weather";
 
 export default class Forecast extends Component {
   state = {
